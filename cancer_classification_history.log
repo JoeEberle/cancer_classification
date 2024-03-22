@@ -1,0 +1,32 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-22 00:04:57,190 - INFO - START cancer_classification =============================================
+2024-03-22 00:04:57,190 - INFO - START cancer_classification Start Time = 2024-03-22 00:04:57
+2024-03-22 00:04:57,190 - INFO - cancer_classification Step 0 - Initialize the configuration file parser
+2024-03-22 00:04:57,191 - INFO - Process cancer_classification Step 0 - Initializing and starting Logging Process.
+2024-03-22 00:04:57,228 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-03-22 00:04:57,229 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-03-22 00:05:29,004 - INFO - PERFORMANCE cancer_classification The total process duration was:31.81
+2024-03-22 00:05:29,005 - INFO - PERFORMANCE cancer_classification Stop Time = 2024-03-22 00:05:29
+2024-03-22 00:05:29,005 - INFO - PERFORMANCE cancer_classification Low process duration less than 3 minutes:31.81
+2024-03-22 00:05:29,005 - INFO - PERFORMANCE cancer_classification Performance optimization is optional
+2024-03-22 00:05:29,005 - INFO - END cancer_classification =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-22 00:22:08,909 - INFO - START cancer_classification =============================================
+2024-03-22 00:22:08,909 - INFO - START cancer_classification Start Time = 2024-03-22 00:22:08
+2024-03-22 00:22:08,909 - INFO - cancer_classification Step 0 - Initialize the configuration file parser
+2024-03-22 00:22:08,909 - INFO - Process cancer_classification Step 0 - Initializing and starting Logging Process.
+2024-03-22 00:22:08,947 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-03-22 00:22:08,947 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-03-22 00:22:40,892 - INFO - PERFORMANCE cancer_classification The total process duration was:31.98
+2024-03-22 00:22:40,893 - INFO - PERFORMANCE cancer_classification Stop Time = 2024-03-22 00:22:40
+2024-03-22 00:22:40,893 - INFO - PERFORMANCE cancer_classification Low process duration less than 3 minutes:31.98
+2024-03-22 00:22:40,893 - INFO - PERFORMANCE cancer_classification Performance optimization is optional
+2024-03-22 00:22:40,893 - INFO - END cancer_classification =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        

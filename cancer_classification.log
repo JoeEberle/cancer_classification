@@ -1,0 +1,6 @@
+2024-03-22 09:22:30,427 - INFO - START cancer_classification =============================================
+2024-03-22 09:22:30,427 - INFO - START cancer_classification Start Time = 2024-03-22 09:22:30
+2024-03-22 09:22:30,427 - INFO - cancer_classification Step 0 - Initialize the configuration file parser
+2024-03-22 09:22:30,427 - INFO - Process cancer_classification Step 0 - Initializing and starting Logging Process.
+2024-03-22 09:22:30,463 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-03-22 09:22:30,463 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'

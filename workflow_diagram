@@ -1,0 +1,17 @@
+digraph "Workflow Diagram" {
+	graph [fontcolor="#2D3436" fontname="Sans-Serif" fontsize=15 label="Workflow Diagram" nodesep=0.60 pad=2.0 rankdir=LR ranksep=0.75 splines=ortho]
+	node [fixedsize=true fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13 height=1.4 imagescale=true labelloc=b shape=box style=rounded width=1.4]
+	edge [color="#7B8894"]
+	ea4a2fb0a8694f06acb9baadf43cb669 [label=Start height=1.9 image="C:\Users\josep\anaconda3\lib\site-packages\resources/generic/blank\blank.png" shape=none]
+	"859dac83a3fe4b59ab53dde4190533c9" [label="Step 1" height=1.9 image="C:\Users\josep\anaconda3\lib\site-packages\resources/generic/blank\blank.png" shape=none]
+	"8d67eca44a65463c80fb7f98ee5d3496" [label="Step 2" height=1.9 image="C:\Users\josep\anaconda3\lib\site-packages\resources/generic/blank\blank.png" shape=none]
+	c1c1375f326a447b9a5070f5aed448ba [label=End height=1.9 image="C:\Users\josep\anaconda3\lib\site-packages\resources/generic/blank\blank.png" shape=none]
+	ea4a2fb0a8694f06acb9baadf43cb669 -> "859dac83a3fe4b59ab53dde4190533c9" [dir=forward fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13]
+	"859dac83a3fe4b59ab53dde4190533c9" -> "8d67eca44a65463c80fb7f98ee5d3496" [dir=forward fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13]
+	"8d67eca44a65463c80fb7f98ee5d3496" -> c1c1375f326a447b9a5070f5aed448ba [dir=forward fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13]
+	"8d67eca44a65463c80fb7f98ee5d3496" -> "13b6b864cb4a4b9cb743f9cd4adc3b1a" [dir=forward fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13]
+	subgraph "cluster_Optional Group" {
+		graph [bgcolor="#E5F5FD" fontname="Sans-Serif" fontsize=12 label="Optional Group" labeljust=l pencolor="#AEB6BE" rankdir=LR shape=box style=rounded]
+		"13b6b864cb4a4b9cb743f9cd4adc3b1a" [label="Step 3" height=1.9 image="C:\Users\josep\anaconda3\lib\site-packages\resources/generic/blank\blank.png" shape=none]
+	}
+}

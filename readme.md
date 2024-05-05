@@ -48,5 +48,5 @@ To get started with the **Cancer Classification** solution repository, follow th
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](cancer_classification.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](cancer_classification.png)  <br>
     

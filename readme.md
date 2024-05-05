@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Cancer Classification - Solution for classifying cancer and performing staging 
 Solution for classifying cancer and performing staging 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Cancer Classification** - an example for your projects
 Solution for classifying cancer and performing staging 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
